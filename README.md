@@ -4,7 +4,6 @@
 
 **Fraud_Categorization** is an AI-driven cybercrime classification system designed to assist law enforcement and citizens in identifying and categorizing cybercrime cases effectively. The model classifies cases based on user input and provides guided assistance for filing reports on the National Cyber Crime Reporting Portal (**NCRP**).
 
----
 
 ## 🔍 Key Features
 
@@ -15,7 +14,6 @@
 *   **Explainable AI (XAI)**: Provides **transparency** in classification decisions, helping users understand why a specific category was chosen.
 *   **Feedback-Based Training**: Enhances model performance through continuous learning from user feedback, allowing for dynamic improvements.
 
----
 
 ## 🎯 Model Performance
 
@@ -26,7 +24,6 @@ The classification model demonstrates strong predictive capabilities on the prov
 | **Primary Category** | Accuracy Prediction | **82.83%** |
 | **Sub-Category** | Accuracy Prediction | **69.60%** |
 
----
 
 ## 🛠 Tech Stack & Libraries Used
 
